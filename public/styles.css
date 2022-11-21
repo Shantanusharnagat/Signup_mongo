@@ -1,0 +1,50 @@
+.pole {
+    width: 90%;
+
+}
+
+
+.card {
+    margin-top: 45px;
+    background: #000000d0;
+    color: white;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 35%;
+    margin-left: 65vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+.form-group {
+    color: whitesmoke;
+}
+
+.login {
+
+    margin-top: 5px;
+}
+
+body {
+    background-image: url("/omen.png");
+}
+
+.btn {
+
+    margin-left: 40%;
+}
+
+
+
+.symbol {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
